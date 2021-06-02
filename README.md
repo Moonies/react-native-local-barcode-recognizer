@@ -1,6 +1,6 @@
 ﻿###react-native-local-barcode-recognizer
 ## *** Still under development.
-
+## add config home page in pod file and package.json
 ##Install:
 ```bash
 #install:
