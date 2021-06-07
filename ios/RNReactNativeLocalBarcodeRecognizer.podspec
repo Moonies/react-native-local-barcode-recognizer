@@ -17,8 +17,7 @@ Pod::Spec.new do |s|
 
 
   s.dependency "React"
-  #s.dependency "others"
-
+  s.dependency "ZXingObjC", "~> 3.2.2"
 end
 
   
