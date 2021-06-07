@@ -1,14 +1,10 @@
 ﻿###react-native-local-barcode-recognizer
 ## *** Still under development.
-
+## add config home page in pod file and package.json
 ##Install:
 ```bash
 #install:
-npm install react-native-local-barcode-recognizer
-
-#and link:
-react-native link react-native-local-barcode-recognizer
-
+npm install https://github.com/Moonies/react-native-local-barcode-recognizer
 ```
 
 or you may install manually.
